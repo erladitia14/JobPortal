@@ -1,6 +1,6 @@
 # Dokumentasi JobSeeker
 
-## Job Seeker (object)
+## Job Seeker
 
 ### Atribut
 - **Username**: Nama pengguna job seeker
@@ -16,7 +16,7 @@
 - **Regist Campaign**: Mendaftar dalam sebuah kampanye
 - **Melihat Campaign**: Melihat daftar kampanye
 
-## Company (object)
+## Company
 
 ### Atribut
 - **Username**: Nama pengguna perusahaan
@@ -33,7 +33,7 @@
 - **Membuat Campaign**: Membuat kampanye baru
 - **Update Campaign**: Memperbarui kampanye
 
-## Campaign (object)
+## Campaign 
 
 ### Atribut
 - **Name**: Nama kampanye
